@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 10.99,
+    "name": "Spaghetti Carbonara",
+    "shop": "Mama Mia's Pasta House",
+    "foodtype": "Italian"
+  },
+  {
+    "id": 2,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 8.49,
+    "name": "Chicken Tikka Masala",
+    "shop": "Taj Mahal Indian Cuisine",
+    "foodtype": "Indian"
+  },
+  {
+    "id": 3,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 6.99,
+    "name": "California Roll",
+    "shop": "Sushi Palace",
+    "foodtype": "Japanese"
+  },
+  {
+    "id": 4,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 12.99,
+    "name": "Filet Mignon",
+    "shop": "The Steakhouse",
+    "foodtype": "American"
+  },
+  {
+    "id": 5,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 4.99,
+    "name": "Margherita Pizza",
+    "shop": "Luigi's Pizzeria",
+    "foodtype": "Italian"
+  },
+  {
+    "id": 6,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 9.99,
+    "name": "Pad Thai",
+    "shop": "Thai Spice",
+    "foodtype": "Thai"
+  },
+  {
+    "id": 7,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 7.49,
+    "name": "Sushi Sashimi Combo",
+    "shop": "Tokyo Sushi Bar",
+    "foodtype": "Japanese"
+  },
+  {
+    "id": 8,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 11.99,
+    "name": "BBQ Ribs",
+    "shop": "Smokehouse BBQ",
+    "foodtype": "American"
+  },
+  {
+    "id": 9,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 5.99,
+    "name": "Falafel Wrap",
+    "shop": "Falafel Kingdom",
+    "foodtype": "Middle Eastern"
+  },
+  {
+    "id": 10,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 8.99,
+    "name": "Pho",
+    "shop": "Pho House",
+    "foodtype": "Vietnamese"
+  },
+  {
+    "id": 11,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 10.49,
+    "name": "Lasagna",
+    "shop": "Papa's Italian Kitchen",
+    "foodtype": "Italian"
+  },
+  {
+    "id": 12,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 6.49,
+    "name": "Hamburger",
+    "shop": "Burger Haven",
+    "foodtype": "American"
+  },
+  {
+    "id": 13,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 13.99,
+    "name": "Chicken Korma",
+    "shop": "Curry House",
+    "foodtype": "Indian"
+  },
+  {
+    "id": 14,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 7.99,
+    "name": "California Burger",
+    "shop": "Surfside Grill",
+    "foodtype": "American"
+  },
+  {
+    "id": 15,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 9.49,
+    "name": "Miso Soup",
+    "shop": "Zen Japanese Restaurant",
+    "foodtype": "Japanese"
+  },
+  {
+    "id": 16,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 11.49,
+    "name": "Chicken Alfredo",
+    "shop": "Al Dente Italian Trattoria",
+    "foodtype": "Italian"
+  },
+  {
+    "id": 17,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 5.49,
+    "name": "Hummus Plate",
+    "shop": "Mediterranean Bistro",
+    "foodtype": "Middle Eastern"
+  },
+  {
+    "id": 18,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 8.99,
+    "name": "Tom Yum Soup",
+    "shop": "Thai Delight",
+    "foodtype": "Thai"
+  },
+  {
+    "id": 19,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 14.99,
+    "name": "Ribeye Steak",
+    "shop": "Prime Cut Steakhouse",
+    "foodtype": "American"
+  },
+  {
+    "id": 20,
+    "picture": "https://via.placeholder.com/300x300",
+    "price": 6.99,
+    "name": "Gyro Wrap",
+    "shop": "Gyro Palace",
+    "foodtype": "Greek"
+  }
+]
